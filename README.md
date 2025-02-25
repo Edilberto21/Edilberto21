@@ -7,7 +7,7 @@
 - 👨‍💻 Cursando Inteligência Artificial e Redes Neurais na UNIUBE
 
 <div align="center">
-  <a href="https://github.com/0GustavoAmorim">
+  <a href="https://github.com/Edilberto21">
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Edilberto21&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edilberto21&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
