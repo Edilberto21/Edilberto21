@@ -20,6 +20,7 @@
     <img align="center" alt="Gu-Java"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
     <img align="center" alt="Gu-MySQL"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
     <img align="center" alt="Gu-AndroidStudio"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
+    <img align="center" alt="Gu-AndroidStudio"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python.svg">
 </div>
 <div align="center">
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/betinho1281/)
