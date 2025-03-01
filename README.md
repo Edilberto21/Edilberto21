@@ -13,8 +13,8 @@
 </br>
 <div align="center">
   <a href="https://github.com/Edilberto21">
-  <img align="center" height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Edilberto21&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Edilberto21&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
+  <img align="center" height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Edilberto21&bg_color=000&border_color=30A3DC&title_color=#4682B4&text_color=FFF"/>
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Edilberto21&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=#4682B4&text_color=FFF"/>
 </div>
 </br>
 <div align="center" style="display: inline_block"><br>
