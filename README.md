@@ -17,7 +17,6 @@
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Edilberto21&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
 </div>
 </br>
-**Linguagens**
 <div align="center" style="display: inline_block"><br>
     <img align="center" alt="dotnet" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" />
     <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
