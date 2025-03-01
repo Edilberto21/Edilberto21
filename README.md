@@ -5,12 +5,11 @@
 - 💻 Desenvolvedor de chatbot/Analista de Sistemas na DigitalBot
 - 🎓 Formado em Sistemas de informação pela UNIUBE
 - 👨‍💻 Cursando Inteligência Artificial e Redes Neurais na UNIUBE
-</br>
 **Redes Sociais**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edilberto-f-523181176/)
 [![Github](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=Github&logoColor=fffff)](https://github.com/Edilberto21)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:edilbertobetinho93@gmail.com)
-
+</br>
 <div align="center">
   <a href="https://github.com/Edilberto21">
   <img align="center" height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Edilberto21&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
