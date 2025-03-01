@@ -12,6 +12,10 @@
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edilberto21&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div align="center" style="display: inline_block"><br>
+  	[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEUUSERNAME/)
+    [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:SEUGMAIL)
+</div>  
+<div align="center" style="display: inline_block"><br>
     <img align="center" alt="dotnet" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" />
     <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
     <img align="center" alt="Json" height="30" width="40" src="https://w7.pngwing.com/pngs/456/654/png-transparent-json-filetype-icon-thumbnail.png">
