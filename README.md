@@ -7,9 +7,9 @@
 - 👨‍💻 Cursando Inteligência Artificial e Redes Neurais na UNIUBE</br>
 
 **Redes Sociais**</br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edilberto-f-523181176/)
-[![Github](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=Github&logoColor=fffff)](https://github.com/Edilberto21)
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:edilbertobetinho93@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?align="center"?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edilberto-f-523181176/)
+[![Github](https://img.shields.io/badge/Github-000?align="center"?style=for-the-badge&logo=Github&logoColor=fffff)](https://github.com/Edilberto21)
+[![Gmail](https://img.shields.io/badge/Gmail-333333?align="center"?style=for-the-badge&logo=gmail&logoColor=red)](mailto:edilbertobetinho93@gmail.com)
 </br>
 <div align="center">
   <a href="https://github.com/Edilberto21">
@@ -18,6 +18,7 @@
 </div>
 </br>
 <div align="center" style="display: inline_block"><br>
+  **Linguagens**</br>
     <img align="center" alt="dotnet" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" />
     <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
     <img align="center" alt="Json" height="30" width="40" src="https://w7.pngwing.com/pngs/456/654/png-transparent-json-filetype-icon-thumbnail.png">
