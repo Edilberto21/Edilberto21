@@ -5,6 +5,7 @@
 - 💻 Desenvolvedor de chatbot/Analista de Sistemas na DigitalBot
 - 🎓 Formado em Sistemas de informação pela UNIUBE
 - 👨‍💻 Cursando Inteligência Artificial e Redes Neurais na UNIUBE</br>
+
 **Redes Sociais**</br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edilberto-f-523181176/)
 [![Github](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=Github&logoColor=fffff)](https://github.com/Edilberto21)
