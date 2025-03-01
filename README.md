@@ -12,7 +12,7 @@
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edilberto21&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
     
-<div align="center">
+<div align="center" style="display: inline_block">
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edilberto-f-523181176/)
 [![Github](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=Github&logoColor=fffff)](https://github.com/Edilberto21)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:edilbertobetinho93@gmail.com)
